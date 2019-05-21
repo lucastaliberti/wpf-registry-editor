@@ -18,6 +18,5 @@
         <Label x:Name="ValueErrorLabel" Content="ValueErrorLabel" HorizontalAlignment="Left" Margin="361,120,0,0" VerticalAlignment="Top" Width="292"/>
         <Label x:Name="SubKeyErrorLabel" Content="SubKeyErrorLabel" HorizontalAlignment="Left" Margin="361,57,0,0" VerticalAlignment="Top" Width="292" Loaded="SubKeyErrorLabel_Loaded"/>
         <Label x:Name="RegistryKeyErrorLabel" Content="RegistryKeyErrorLabel" HorizontalAlignment="Left" Margin="361,89,0,0" VerticalAlignment="Top" Width="292"/>
-
     </Grid>
 </Window>
